@@ -25,6 +25,11 @@ hs_err_pid*
 .directory
 .Trash-*
 .nfs*
+hs_err_pid*
+*~
+.fuse_hidden*
+.directory
+.Trash-*
 *.DS_Store
 .AppleDouble
 .LSOverride
